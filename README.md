@@ -1,6 +1,6 @@
 # UnifiedMentor
 
-# Power BI Dashboard Summary
+# Unified Mentor Internship Submission
 
 This Power BI dashboard provides a comprehensive overview of business performance metrics, including revenue, transactions, and sales analysis. Below are the key components:
 
